@@ -19,7 +19,7 @@ We’re looking for contributors who:
 ## How to Join
 
 Everything happens on our **Discord**, design, coding, discussion, planning.  
-**Join here:** [Discord link]
+**Join here:** https://discord.com/users/1406144916152909945
 
 ## What You’ll Get
 
